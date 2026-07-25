@@ -1,5 +1,5 @@
 
-### DATE : 21/07/26
+### DATE : 25/07/26
 # Ex No: 01 Implementation of Bayesian Networks
 
 ### Name : Subhash V
