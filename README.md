@@ -153,15 +153,21 @@ print(rain_cpt.round(4))
 ```
 ## Output:
 
-<img width="976" height="373" alt="image" src="https://github.com/user-attachments/assets/67aa8ded-e8cc-42d2-a1fb-a390ada92493" />
+<img width="740" height="556" alt="image" src="https://github.com/user-attachments/assets/781b49db-81be-4f1a-ae21-284d3dc6343d" />
 
-<img width="892" height="367" alt="image" src="https://github.com/user-attachments/assets/32a68b26-a88f-43d1-b6f0-f6debc18eb0d" />
+<img width="757" height="370" alt="image" src="https://github.com/user-attachments/assets/f91a2c54-c66b-4a72-baac-5cd3c26459a0" />
 
-<img width="916" height="635" alt="image" src="https://github.com/user-attachments/assets/ff647e12-a50e-4da9-a8c4-d0f7b56dc385" />
+### GRAPH:
 
-<img width="1302" height="62" alt="image" src="https://github.com/user-attachments/assets/b73c9efa-6a97-4691-9f28-a41ac730d539" />
+<img width="667" height="442" alt="image" src="https://github.com/user-attachments/assets/e265f087-95a9-4b33-9ff4-bf6a1235d961" />
 
-<img width="998" height="132" alt="image" src="https://github.com/user-attachments/assets/040b0cce-7e24-43c0-929e-0abe86a1cf46" />
+### CPT:
+
+<img width="1293" height="120" alt="image" src="https://github.com/user-attachments/assets/7a536b05-1a45-4d36-b1a8-c75fa21687ff" />
+
+### RAIN TOMORROW VALUES:
+
+<img width="723" height="132" alt="image" src="https://github.com/user-attachments/assets/4aa4d2fd-25a4-4384-89b7-45fd85f006e4" />
 
 
 ## Result:
