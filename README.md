@@ -62,7 +62,7 @@ df['Humidity3pmCat']=df['Humidity3pm'].apply(lambda x: '1.>60' if x>60 else '0.<
 print(df)
 
 # This function helps to calculate probability distribution, which goes into BBN (note, can handle up to 2 parents)
-'''
+
 def probs(data, child, parent1=None, parent2=None):
     if parent1==None:
         # Calculate probabilities
@@ -77,7 +77,6 @@ def probs(data, child, parent1=None, parent2=None):
                 prob=pd.crosstab([data[parent1],data[parent2]],data[child], margins=False, normalize='index').sort_index().to_numpy().reshape(-1).tolist()
     else: print("Error in Probability Frequency Calculations")
     return prob
-'''
 def probs(data, child, parent1=None, parent2=None):
     if parent1 is None:
         # P(child)
